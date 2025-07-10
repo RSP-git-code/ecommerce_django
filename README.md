@@ -58,18 +58,4 @@ This project is for learning purposes. All the images used in this website is ge
 
 
 
----
 
-### 🔗 **Demo (Optional)**
-
-> *\[Provide link if deployed or provide localhost info]*
-
----
-
-If you’d like, I can also generate:
-
-* **requirements.txt**
-* Custom logo or favicon suggestions
-* Deployment guide (Heroku, PythonAnywhere, etc.)
-
-Let me know!
