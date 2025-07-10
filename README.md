@@ -58,11 +58,13 @@ This project is for learning purposes. All the images used in this website is ge
 ## Website
 
 ### 🏠 Homepage
-![Homepage]<img width="1791" height="888" alt="image" src="https://github.com/user-attachments/assets/d747c34b-8042-476b-9e52-e4bfa323016d" />
+
+<img width="1791" height="888" alt="image" src="https://github.com/user-attachments/assets/d747c34b-8042-476b-9e52-e4bfa323016d" />
 
 
 ### 🔍 Browse Items & Search
-![Browse Items]<img width="1736" height="703" alt="image" src="https://github.com/user-attachments/assets/06b95ccd-d63a-44f8-97de-c320e47cf73e" />
+
+<img width="1736" height="703" alt="image" src="https://github.com/user-attachments/assets/06b95ccd-d63a-44f8-97de-c320e47cf73e" />
 
 *** Search with errors:***
 <img width="1729" height="687" alt="image" src="https://github.com/user-attachments/assets/713f9e75-5e59-4f65-b19e-092171d9ae59" />
@@ -70,16 +72,20 @@ This project is for learning purposes. All the images used in this website is ge
 
 ### 🛒 Shopping Cart
 *** Add to Cart ***
-![Shopping Cart]<img width="1647" height="639" alt="image" src="https://github.com/user-attachments/assets/27b8267e-ec48-4e08-b5e4-965e48f6ae32" />
+
+<img width="1647" height="639" alt="image" src="https://github.com/user-attachments/assets/27b8267e-ec48-4e08-b5e4-965e48f6ae32" />
 
 *** View Cart***
+
 <img width="1684" height="472" alt="image" src="https://github.com/user-attachments/assets/dea3f31d-2599-40ed-803d-3b8860126775" />
 
 *** Remove from Cart ***
+
 <img width="1799" height="461" alt="image" src="https://github.com/user-attachments/assets/5db5b3e9-1a19-4af6-8046-89874e059493" />
 
 ### 👤 Profile Page
-![Profile]<img width="1537" height="661" alt="image" src="https://github.com/user-attachments/assets/50bf010f-48e7-4ca1-af79-787833316732" />
+
+<img width="1537" height="661" alt="image" src="https://github.com/user-attachments/assets/50bf010f-48e7-4ca1-af79-787833316732" />
 
 
 
