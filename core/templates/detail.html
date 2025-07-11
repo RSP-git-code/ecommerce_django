@@ -41,7 +41,7 @@
             {% for related in related_items %}
             <div class="col-md-4 mb-4">
                 <div class="card product-card h-100">
-                    <img src="{% static 'item_images/' %}{{ related_item.image.name|basename }}" alt="{{ related_item.name }}">
+                   <img src="{% static 'item_images/' %}{{ related.image.name }}" alt="{{ related.name }}" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">{{ related.name }}</h5>
                         <p class="card-text">${{ related.price }}</p>
