@@ -1,5 +1,5 @@
 
-## ProVenture Marketplace – Your Friendly Online Store
+## Proventure Marketplace – Your Friendly Online Store
 ProVenture Marketplace is a simple yet feature-rich eCommerce web application built with Django. It allows users to:
 
 -- Browse and search products with typo-tolerant search
