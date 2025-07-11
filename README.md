@@ -97,8 +97,8 @@ https://proventuremarketplace.onrender.com
 
 
 This website is a learning project.  
-All product listings and images are AI-generated or placeholders.  
-No real transactions occur.
+All product images shown on the website are AI-generated .  
+No real transactions occur
 
 
 
