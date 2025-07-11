@@ -92,9 +92,13 @@ This project is for learning purposes. All the images used in this website is ge
 
 <img width="1537" height="661" alt="image" src="https://github.com/user-attachments/assets/50bf010f-48e7-4ca1-af79-787833316732" />
 
-### Demo:
+### Live Demo:  
+https://proventuremarketplace.onrender.com
 
 
+This website is a learning project.  
+All product listings and images are AI-generated or placeholders.  
+No real transactions occur.
 
 
 
