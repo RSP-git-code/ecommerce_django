@@ -5,5 +5,5 @@ class CoreConfig(AppConfig):
     name = 'core'
 
     def ready(self):
-        import core.signals  n
+        import core.signals  
 
