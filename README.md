@@ -99,6 +99,13 @@ https://proventuremarketplace.onrender.com
 This website is a learning project.  
 All product images shown on the website are AI-generated .  
 No real transactions occur
+## ⚠️ Data Persistence Notice
+
+This project is hosted on Render using the **free tier**, which does not provide persistent storage for the database.
+As a result, user data (such as accounts, profiles)may reset after the app goes to sleep or restarts, which is a limitation of the free hosting plan on render .
+For a fully functional, production-grade version, a persistent cloud database (like PostgreSQL) would be required.
+This project is intended for **educational purposes** only.
+
 
 
 
