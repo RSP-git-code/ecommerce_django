@@ -104,7 +104,7 @@ No real transactions occur
 This project is hosted on Render using the **free tier**, which does not provide persistent storage for the database.
 As a result, user data (such as accounts, profiles)may reset after the app goes to sleep or restarts, which is a limitation of the free hosting plan on render .
 For a fully functional, production-grade version, a persistent cloud database (like PostgreSQL) would be required.
-This project is intended for **educational purposes** only.
+This project is intended for **educational purposes** only.Also, when the website has been inactive for a while, it may take up to 1 minute to load. Please be patient while the server wakes up!
 
 
 
