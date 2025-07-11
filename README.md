@@ -59,15 +59,20 @@ This project is for learning purposes. All the images used in this website is ge
 
 ### 🏠 Homepage
 
-<img width="1791" height="888" alt="image" src="https://github.com/user-attachments/assets/d747c34b-8042-476b-9e52-e4bfa323016d" />
+<img width="1864" height="1015" alt="image" src="https://github.com/user-attachments/assets/4ae823f2-2a39-404e-9484-77933f85e0be" />
+
 
 
 ### 🔍 Browse Items & Search
 
-<img width="1736" height="703" alt="image" src="https://github.com/user-attachments/assets/06b95ccd-d63a-44f8-97de-c320e47cf73e" />
+<img width="1837" height="909" alt="image" src="https://github.com/user-attachments/assets/5adcaf8e-3ab4-4add-9481-afa1a4eee3ba" />
+
 
 *** Search with errors:***
-<img width="1729" height="687" alt="image" src="https://github.com/user-attachments/assets/713f9e75-5e59-4f65-b19e-092171d9ae59" />
+<img width="1801" height="839" alt="image" src="https://github.com/user-attachments/assets/02af9fba-1309-4d25-9140-76a9c83c466a" />
+
+
+<img width="1809" height="759" alt="image" src="https://github.com/user-attachments/assets/c95cf32e-93a6-4c36-b5b1-3b0260a427fe" />
 
 
 ### 🛒 Shopping Cart
@@ -86,6 +91,8 @@ This project is for learning purposes. All the images used in this website is ge
 ### 👤 Profile Page
 
 <img width="1537" height="661" alt="image" src="https://github.com/user-attachments/assets/50bf010f-48e7-4ca1-af79-787833316732" />
+
+### Demo:
 
 
 
